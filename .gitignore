@@ -12,6 +12,9 @@
 .svn/
 prime
 
+# nix/direnv
+.direnv/
+
 # libolm package
 /assets/js/package
 
